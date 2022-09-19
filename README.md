@@ -2,8 +2,8 @@
 # API documentation
 [Settle Api documentation](https://developer.settle.eu/docs/settleapis/ZG9jOjgzNTg1Mg-welcome-to-the-settle-api-docs)
 
-# Business acount setup
-[How to set up a business acount](https://developer.settle.eu/docs/settleapis/ZG9jOjM0ODE0NTc0-set-up-a-business-account#1-the-settle-business-portal)
+# Business account setup
+[How to set up a business account](https://developer.settle.eu/docs/settleapis/ZG9jOjM0ODE0NTc0-set-up-a-business-account#1-the-settle-business-portal)
 
 # API Authentication
 For merchant API you need to create a merchant profile.
@@ -16,7 +16,7 @@ Once you have signed up in Settle environment you need to create API Credentials
 Your API Credentials are below in "Headers" section: X-Settle-Userx-Settle-Merchant and Shared secret key above
 
 # Service Endpoints
-Sandbox: https://api.sandbox.settle.eu `SettleApi.Enums.ApiMode.sandbox`
+Sandbox: https://api.sandbox.settle.eu `SettleApi.Enums.ApiMode.sandbox` <br />
 Production: https://api.settle.eu `SettleApi.Enums.ApiMode.prod` 
 
 # Source code setup
